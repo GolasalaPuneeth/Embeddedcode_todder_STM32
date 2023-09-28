@@ -7,11 +7,12 @@ This is a 7X8 matrix keypad code for the STM32F1 series microcontroller and the 
 
 **Images:**
 
-[Image of a 7X8 matrix keypad]
+![image](https://github.com/GolasalaPuneeth/Embeddedcode_todder_STM32/assets/97512630/015ad465-c8ff-4487-af33-3c57d502232e)
 
-[Image of an STM32F1 series microcontroller]
 
-[Image of a DFPLAYER-MINI MP3 player]
+![image](https://github.com/GolasalaPuneeth/Embeddedcode_todder_STM32/assets/97512630/712c8f13-ecee-4b23-9b08-72f13e09709f)
+
+![image](https://github.com/GolasalaPuneeth/Embeddedcode_todder_STM32/assets/97512630/27b3f8c0-cbd0-423a-a3ef-7dc7128b3686)
 
 **Description:**
 
@@ -27,11 +28,13 @@ This code uses the DFROBOTMINIPLAYER.H library to control the DFPLAYER-MINI MP3 
 
 1. Connect the 7X8 matrix keypad to the STM32F1 series microcontroller as shown in the following diagram:
 
-[Image of a diagram showing how to connect the 7X8 matrix keypad to the STM32F1 series microcontroller]
+![image](https://github.com/GolasalaPuneeth/Embeddedcode_todder_STM32/assets/97512630/8dcc5640-02e3-4376-9739-2602869ba58b)
+
 
 2. Connect the DFPLAYER-MINI MP3 player to the STM32F1 series microcontroller as shown in the following diagram:
 
-[Image of a diagram showing how to connect the DFPLAYER-MINI MP3 player to the STM32F1 series microcontroller]
+![image](https://github.com/GolasalaPuneeth/Embeddedcode_todder_STM32/assets/97512630/615f049a-8905-4ad9-8cd1-d46c40185f1b)
+
 
 3. Upload the code to the STM32F1 series microcontroller.
 
